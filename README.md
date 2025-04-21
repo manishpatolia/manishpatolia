@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I’m a full-time PHP backend developer with 12+ years of experience, working with clients globally to build custom WordPress solutions and full-scale Laravel web apps. Located in Ahmedabad, Gujarat, India (UTC+5:30), I focus on clean code, performance, and long-term maintainability. 
 
 
-##📞 Contact Information
+## 📞 Contact Information
 Email: manishpatolia09@gmail.com
 Time Zone: UTC+5:30
 
-##🌐 Languages
+## 🌐 Languages
 English | Hindi | Gujarati

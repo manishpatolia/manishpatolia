@@ -42,8 +42,8 @@ I'm looking forward to collaborating on challenging projects that involve:
 
 ### 📫 How to Reach Me
 - **Email**: [manishpatolia09@gmail.com](mailto:manishpatolia09@gmail.com)
-- **LinkedIn**: [[linkedin.com/in/example](https://www.linkedin.com/in/manish-patolia/)](#) *(Add your LinkedIn URL here)*
-- **WordPress.org**: [[www.example.com](https://profiles.wordpress.org/man2013/)](#) *(Add your portfolio link here)*
+- **LinkedIn**: [[linkedin Profile](https://www.linkedin.com/in/manish-patolia/)](#) *(Add your LinkedIn URL here)*
+- **WordPress.org**: [[WordPress.org](https://profiles.wordpress.org/man2013/)](#) *(Add your portfolio link here)*
 
 ### 🌐 Languages I Speak
 - **English**
